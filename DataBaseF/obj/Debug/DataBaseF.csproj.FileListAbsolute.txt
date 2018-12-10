@@ -1,0 +1,7 @@
+C:\Users\abdel\OneDrive\Bureau\DataBaseF\DataBaseF\obj\Debug\DataBaseF.csprojAssemblyReference.cache
+C:\Users\abdel\OneDrive\Bureau\DataBaseF\DataBaseF\obj\Debug\DataBaseF.csproj.CoreCompileInputs.cache
+C:\Users\abdel\OneDrive\Bureau\DataBaseF\DataBaseF\bin\Debug\DataBaseF.exe.config
+C:\Users\abdel\OneDrive\Bureau\DataBaseF\DataBaseF\bin\Debug\DataBaseF.exe
+C:\Users\abdel\OneDrive\Bureau\DataBaseF\DataBaseF\bin\Debug\DataBaseF.pdb
+C:\Users\abdel\OneDrive\Bureau\DataBaseF\DataBaseF\obj\Debug\DataBaseF.exe
+C:\Users\abdel\OneDrive\Bureau\DataBaseF\DataBaseF\obj\Debug\DataBaseF.pdb
